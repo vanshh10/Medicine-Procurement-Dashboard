@@ -1,0 +1,521 @@
+Code,Drug Name with specification and unit,Strength Specificati on,Dosage Form,Packin g,Category,Annual average Demand in units,"EMD in Rs,",Groups
+M2037011,Adenosine 3 mg. / ml. Inj 2 ml. Amp.,3 mg. ml.,Inj,2 ml. Amp.,Cardio,7314,8000,D
+M3678021,Alprazolam 0.25mg Tab Strip of 10,0.25mg,Tab,Strip of 10,Psychiatric,307590,7700,E
+M3678022,Alprazolam 0.5mg Tab Strip of 10,0.5mg,Tab,Strip of 10,Psychiatric,126230,3500,E
+M2037009,Amiodarone 200mg Tab Strip of 10,200mg,Tab,Strip of 10,Cardio,13375,9700,D
+M2037010,Amiodarone 150 mg./ Vial Inj 3 ml. Vial,150 mg./ Vial,Inj,3 ml. Vial,Cardio,16502,5000,D
+M3678004,Amitriptyline 10 mg. Tab Strip of 10,10 mg.,Tab,Strip of 10,Psychiatric,90010,4300,E
+M3678005,Amitriptyline 25 mg. Tab Strip of 10,25 mg.,Tab,Strip of 10,Psychiatric,574159,27300,E
+M4000022,Amlodepine 2.5mg Tab 15 tablet strip,2.5mg,Tab,15 tablet strip,Cardio,36100,1600,D
+M2015001,Amlodipine 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Cardio,3730362,88600,D
+M2015002,Amlodipine 10mg Tab Strip of 10,10mg,Tab,Strip of,Cardio,140354,6600,D
+M4000036,Atenolol 50mg Tab 10 tabs,50mg,Tab,10 tabs,Cardio,159173,5100,D
+M2055005,Atorvastatin 10 mg Tab Strip of 10,10 mg,Tab,Strip of 10,Cardio,1022390,60900,D
+M2055006,Atorvastatin 20 mg Tab Strip of 10,20 mg,Tab,Strip of 10,Cardio,2378651,249200,D
+M3263009,Atracurium 10 mg./ml. Inj 2.5 ml vial,10 mg./ml.,Inj,2.5 ml vial,Aneasthesia,23966,10200,E
+M4000074,"Brimonidine 0.1%, 5ml 0.001 Eye Drops 5ml",0.001,Eye Drops,5ml,EYE,6160,6600,E
+M1061002,Bupivacaine Hydrochloride 0.5% Inj 20ml vial,0.50%,Inj,20ml vial,Aneasthesia,26840,8700,E
+M1061003,"Bupivacaine Hydrochloride 0,5% (Heavy) with anhydrous dextrose Inj 4ml amp.",0.5% (Heavy) with anhydrou S dextrose,Inj,4ml amp.,Aneasthesia,81580,13200,E
+M1111032,Buprenorphine 0.2mg Tab (sublingual) Strip of 10,0.2mg,Tab (sublin gual),Strip of 10,Aneasthesia,18240,6900,E
+M4000081,Cabergoline 0.5mg Tab 10 tabs,0.5mg,Tab,10 tabs,Psychiatric,4657,29000,E
+M1219009,Carbamazepine 100mg Tab. (Uncoated) Strip of 10,100mg,Tab. (Unco ated),Strip of 10,Psychiatric,13680,1500,E
+M1219010,Carbamazepine 200mg Tab. (Uncoated) Strip of 10,200mg,Tab. (Unco ated),Strip of 10,Psychiatric,138392,23900,E
+M1219012,Carbamazepine 200mg. (Controlled Release) Strip of 10,200mg.,Tab.(C ontroll ed Relea se),Strip of 10,Psychiatric,919830,172700,E
+M1219013,Carbamazepine 400mg. Tab. (Controlled Release) Strip of 10,400mg.,Tab.(C ontroll ed Relea se),Strip of 10,Psychiatric,12140,5700,E
+M4000091,Carboxy Methyl Cellulose 0.01 Eye Drops 5ml,1%,Eye Drops,5ml,EYE,77900,37600,E
+M2853009,Chloramphenicol 0.05 Ear Drops 5 ml vial,5%,Ear Drops,5 ml vial,ENT,15275,2500,E
+M3678009,Chlorpromazine 100mg Tab Strip of 10,100mg,Tab,Strip of 10,Psychiatric,17363,2400,E
+M1219021,Clonazepam Strip of 10 Tab 2 mg,Strip of 10,Tab,2 mg,Psychiatric,45200,2200,E
+M1219020,Clonazepam 0.5 mg Tab Strip of 10,"0,5 mg",Tab,Strip of 10,Psychiatric,472980,16600,E
+M3068003,Conjugated equine oestrogen 0.625 mg Tab Strip of 28,0.625 mg,Tab,Strip of 28,Obs Gynae,1943,22000,D
+M1074007,Diazepam 5mg/ml Inj 2 ml amp.,5mg/ml,Inj,2 ml amp.,Psychiatric,63210,4500,E
+M2037004,Diltiazem 30mg Tab Strip of 10,30mg,Tab,Strip of 10,Cardio,151339,11800,D
+M2037005,Diltiazem 60 mg Tab Strip of 10,60 mg,Tab,Strip of 10,Cardio,75635,10600,D
+M3678029,Donepezil 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Psychiatric,29380,3900,E
+M2052002,Dopamine 40mg/ml Inj 5ml vial,40mg/ml,Inj,5ml vial,Psychiatric,154334,25500,E
+M4000205,Dorzolamide + timolol (2% + 0.5%) 5ml Eye Drops 5ml,5ml,Eye Drops,5ml,EYE,5030,8500,E
+M2015005,Enalapril 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Cardio,1321080,41300,D
+M4000223,Ethamsylate 500mg Tab Strip of 10,500mg,Tab,Strip of 10,Obs Gynae,17010,2200,D
+M4000224,Ethamsylate 250mg Tab Strip of 10,250mg,Tab,Strip of 10,Obs Gynae,18800,1500,D
+M4000245,Flunarizine 10mg Tab Strip of 10,10mg,Tab,Strip of 10,Psychiatric,12520,1500,E
+M3678003,Fluoxetine 20mg Cap Strip of 10,20mg,Cap,Strip of 10,Psychiatric,289400,18900,E
+M3323010,Flurbiprofen 0.0003 Eye Drops 5 ml vial,0.03%,Eye Drops,5 vial,EYE,138350,17800,E
+M4000250,Fluticasone Propionate Nasal spray 50mcg Spray 100-120 metered dose,50mcg,Spray,100-120 metered dose,ENT,55860,86600,E
+M2546004,Frusemide 40mg Tab Strip of 10,40mg,Tab,Strip of 10,Cardio,402172,21400,D
+M2546005,Frusemide 10mg. / ml. Inj 2ml amp.,10mg. / ml.,Inj,2ml amp.,Cardio,606276,22600,D
+M4000253,FSH 75 units Inj Vial,75 units,Inj,Vial,Obs Gynae,1180,4400,D
+M1219024,Gabapentine 300mg Tab Strip of 10,300mg,Tab,Strip of 10,Psychiatric,398570,99700,E
+M3057007,Glibenclamide 2.5 mg Tab Strip of 10,2.5 mg,Tab,Strip of 10,Anti Diabetic,57200,2000,D
+M3057008,Glibenclamide 5 mg Tab Strip of 10,5 mg,Tab,Strip of 10,Anti Diabetic,477550,11000,D
+M4000259,Gliclazide 80mg Tab Strip of 10,80mg,Tab,Strip of 10,Anti Diabetic,38920,7800,D
+M3057009,Glimepiride 1mg Tab Strip of 10,1mg,Tab,Strip of 10,Anti Diabetic,1156993,29000,D
+M3057010,Glimepiride 2mg Tab Strip of 10,2mg,Tab,Strip of 10,Anti Diabetic,2129327,63900,D
+M3057011,Glimepiride 4mg Tab Strip of 10,4mg,Tab,Strip of 10,Anti Diabetic,136975,10300,D
+M2034016,Glyceryl Trinitrate 5mg/ml Inj 5,5mg/ml,Inj,5 ml vial,Cardio,23600,6100,D
+M4000268,G(Human Chorionic Gonadotropin) 5000units Inj vial,5000units,Inj,vial,Obs Gynae,3380,10600,D
+M3678011,Haloperidol 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Psychiatric,32525,1800,E
+M2546001,Hydrochlorothiazide 25mg Tab Strip of 10,25mg,Tab,Strip of 10,Cardio,87943,8200,D
+M2546011,Hydrochlorothiazide 12.5mg Tab Strip of 10,12.5mg,Tab,Strip of 10,Cardio,217628,15600,D
+M3075010,Hydroxy progesterone acetate (Depot) 500mg Inj Vial,500mg,Inj,Vial,Obs Gynae,15570,7800,D
+M3386003,Hydroxy Propyl Methyl Cellulose 0. 7% Drops 10 ml vial,0.70%,Drops,10 ml vial,EYE,239600,101800,E
+M3386004,Hydroxy Propyl Methyl Cellulose 2 % prefilled syringe Inj One Syringe,2 % prefilled syringe,Inj,One Syringe,EYE,59740,86700,E
+M3057003,Insulin Glargine(Human) 100 IU/ml Inj 3ml pack,100 IU/ml,Inj,3ml pack,Anti Diabetic,21915,130400,D
+M3057004,Insulin Glargine(Human) 100 IU/ml Inj 10ml vial,100 IU/ml,Inj,10ml vial,Anti Diabetic,6143,116200,D
+M3057002,Insulin NPH (Human) 40 IU/ml Inj 10 vial,40 IU/ml,Inj,10 ml vial,Anti Diabetic,6325,9100,D
+M3057005,Insulin Premixed (Human) 30 %/70% in IU/ml Inj 10 vial,30 %/70% in 40 IU/ml,Inj,10 ml vial,Anti Diabetic,251217,353000,D
+M3057006,Insulin Premixed (Human) 30 %/70% in 100 IU/ml Inj 10 ml vial,30 %/70% in 100 IU/ml,Inj,10 ml vial,Anti Diabetic,20500,65100,D
+M3057001,Insulin Soluble (Human) 40 IU/ml Inj 10 ml vial,40 IU/ml,Inj,10 ml vial,Anti Diabetic,30092,44800,D
+M1054004,Isoflurane No- preservative and blood gas coefficient of 1.4 (IP/ BP/ USP current edition/approved by DCGI) Inhal. 100 ml bottle,No- preservat ive and blood gas coefficient of 1.4 (IP/ BP/ USP current edition/ap proved by DCGI),Inhal.,100 ml bottle,Aneasthesia,8153,72400,E
+M1054005,Isoflurane No- preservative and blood gas coefficient of 1.4 (IP/ BP/ USP current edition/ approved by DCGI) Inhal. 250 ml bottle,No- preservat ive and blood gas coefficien t of 1.4 (IP/ BP/ USP - current edition/ approved by DCGI),Inhal.,250 ml bottle,Aneasthesia,291,7000,E
+M2034018,Isosorbide dinitrate 10 mg Tab Strip of 10,10 mg,Tab,Strip of 10,Cardio,136403,4500,D
+M2034020,Isosorbide mononitrate 10 mg Tab Strip of 10,10 mg,Tab,Strip of 10,Cardio,143047,9700,D
+M2034021,Isosorbide mononitrate 20 mg Tab Strip of 10,20 mg,Tab,Strip of 10,Cardio,443420,20000,D
+M1054007,Ketamine Hydrochloride 50mg/ml Inj 10ml vial,50mg/ml,Inj,10ml vial,Aneasthesia,4932,3700,E
+M2015010,Labetolol 20mg/ml Inj 2 ml amp.,20mg/ml,Inj,2 ml amp.,Cardio,55305,86300,D
+M2015011,Labetolol 100mg Tab Strip of 10,100mg,Tab,Strip of 10,Cardio,13655,14400,D
+M1219022,Lamotrigine 25 mg Tab. /dispersible Strip of 10,25 mg,Tab. /disper sible,Strip of 10,Psychiatric,27498,4600,E
+M4000345,Levetiracetam 250mg Tab Strip of 10,250mg,Tab,Strip of 10,Psychiatric,16060,6800,E
+M4000346,Levetiracetam 500mg Tab Strip of 10,500mg,Tab,Strip of 10,Psychiatric,213920,169800,E
+M1427002,Levodopa + Carbidopa 100mg + 10mg Tab Strip of 10,100mg + 10mg,Tab,Strip of 10,Psychiatric,25922,10700,E
+M1427004,Levodopa + Carbidopa 250mg + 25mg Tab Strip of 10,250mg + 25mg,Tab,Strip of 10,Psychiatric,2900,2100,E
+M3678014,Lithium carbonate 300mg Tab Strip of 10,300mg,Tab,Strip of 10,Psychiatric,123264,13400,E
+M3678018,Lorazepam 2mg Tab Strip of 10,2mg,Tab,Strip of 10,Psychiatric,209135,11000,E
+M4000371,Loteprednol 0.005 Eye Drops 5ml,0.50%,Eye Drops,5ml,EYE,16500,12300,E
+M4000764,Mephentermine 15mg/ml Inj amp,15mg/ml,Inj,amp,Cardio,6949,2300,D
+M3057012,Metformin hydrochloride 500 mg Tab Strip of 10,500 mg,Tab,Strip of 10,Anti Diabetic,6934375,308600,D
+M3057013,Metformin hydrochloride 850 mg Tab Strip of 10,850 mg,Tab,Strip of 10,Anti Diabetic,1144250,78400,D
+M4000391,Metformin SR 1000mg Tab Strip of 10,1000mg,Tab,Strip of 10,Anti Diabetic,520100,73100,D
+M3471004,Methylergometrine Maleate 0.125mg. Tab Strip of 10,0.125mg.,Tab,Strip of 10,Obs Gynae,35430,4200,D
+M3471005,Methylergometrine Maleate 0.2.mg/ml. Inj 1ml amp.,0.2.mg/m I.,Inj,1ml amp.,Obs Gynae,31350,2100,D
+M2034011,Metoprolol 50mg Tab Strip of 14,50mg,Tab,Strip of 14,Cardio,492564,31700,D
+M2034013,Metoprolol 100mg Tab Strip of 15,100mg,Tab,Strip of 15,Cardio,32700,5800,D
+M2034023,Metoprolol 25mg Extended Release Tab Strip of 14,25mg Extended Release,Tab,Strip of 14,Cardio,108900,19900,D
+M2034024,Metoprolol 50 mg Extended Release Tab Strip of 14,50 mg Extended Release,Tab,Strip of 14,Cardio,420159,83600,D
+M1074009,Midazolam 1mg/ml Inj 5 ml vial,1mg/ml,Inj,5 ml vial,Psychiatric,247848,72100,E
+M3471011,Mifepristone 200 mg Tab strip of 4,200 mg,Tab,strip of 4,Obs Gynae,7415,17100,D
+M3471012,Misoprostol 200 mcg Tab strip of 4,200 mcg,Tab,strip of 4,Obs Gynae,55380,8400,D
+M3471013,Misoprostol 25mcg Tab strip of 4,25mcg,Tab,strip of 4,Obs Gynae,10735,1600,D
+M4000447,Nimodipine 30mg Tab strip of 10,30mg,Tab,strip of 10,Cardio,8550,7200,D
+M2052003,Noradrenaline 1mg/ml Inj 2 ml amp.,1mg/ml,Inj,2 ml amp.,Cardio,165368,33100,D
+M3075002,Norethisterone 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Obs Gynae,132475,23800,D
+M3678033,Olanzapine 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Psychiatric,252370,14400,E
+M1219007,Phenobarbitone 30mg Tab Strip of 10,30mg,Tab,Strip of 10,Psychiatric,26100,1800,E
+M1219008,Phenobarbitone 60 mg Tab Strip of 10,60 mg,Tab,Strip of 10,Psychiatric,64845,8400,E
+M1219002,Phenytoin Sodium 100mg Tab Strip of 10,100mg,Tab,Strip of 10,Psychiatric,1141595,53700,E
+M1219003,Phenytoin Sodium 30mg/5ml Syp 200ml Bottle,30mg/5m,Syp,200ml Bottle,Psychiatric,16265,14100,E
+M1219004,Phenytoin Sodium 50mg/ml Inj 2ml amp.,50mg/ml,Inj,2ml amp.,Psychiatric,603260,46200,E
+M4000783,"Piracetam, 500mg/5ml Syp 100ml",500mg/5 ml,Syp,100ml,Psychiatric,1650,1100,E
+M2015014,Prazosin 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Cardio,19740,9400,D
+M4000513,Pregabalin 75mg Tab strip of 10,75mg,Tab,strip of 10,Psychiatric,183310,42400,E
+M3075011,Progesterone micronised 100 mg Tab Strip of 10,100 mg,Tab,Strip of 10,Obs Gynae,7750,6100,D
+M3075012,Progesterone micronised 200mg Tab Strip of 10,200mg,Tab,Strip of 10,Obs Gynae,60932,59100,D
+M1054010,Propofol 0.01 Inj 20 ml vial,1%,Inj,20 ml vial,Aneasthesia,45840,29300,E
+M1111044,Propranolol HCI 10mg Tab Strip of 10,10mg,Tab,Strip of 10,Cardio,102880,4100,D
+M1111046,Propranolol HCI 40mg Tab Strip of 10,40mg,Tab,Strip of 10,Cardio,134090,7100,D
+M3678020,Risperidone 2mg Tab Strip of 10,2mg,Tab,Strip of 10,Psychiatric,430500,21300,E
+M4000551,Sertraline Hydrochloride 25mcg Tab strip of 10,25mcg,Tab,strip of 10,Psychiatric,158080,12600,E
+M1054017,Sevoflurane U.S.P (IP/ BP/ USP as approved by DCGI) Inhal. 250 ml bottle,,Inhal.,250 ml bottle,Aneasthesia,1998,210300,E
+M2853017,Sodium Chloride 0.0065 Nasal drops 10ml,0.65%,Nasal drops,10ml,ENT,231730,23100,E
+M1219015,Sodium Valproate 200mg./ 5ml. Syp Bottle of 250ml,200mg./ 5ml.,Syp,Bottle of 250ml,Psychiatric,18050,21300,E
+M1219018,Sodium Valproate 500mg Tab. (Controlled Release) Strip of 10,500mg,Tab. (Contr olled Relea se),Strip of 10,Psychiatric,867660,329300,E
+M2546008,Spironolactone 25mg Tab Strip of 10,25mg,Tab,Strip of 10,Cardio,194280,40100,D
+M2546009,Spironolactone 100mg Tab Strip of 10,100mg,Tab,Strip of 10,Cardio,45040,33800,D
+M3263013,Succinyl choline 50 mg/ml Inj 10 ml vial,50 mg/ml,Inj,10 ml vial,Aneasthesia,6607,3700,E
+M1635011,Tamoxifen 10mg Tab Strip of 10,10mg,Tab,Strip of 10,Obs Gynae,100,100,D
+M4000599,Tamsulosin 0.4mg Tab Strip of 10,0.4mg,Tab,Strip of 10,Cardio,64550,7500,D
+M4000601,Tamsulosin+ Dutesteride 0.4mg +0.5mg Tab Strip of 10,0.4mg +0.5mg,Tab,Strip of 10,Cardio,53490,10300,D
+M2015015,Telmisartan 20mg Tab Strip of 10,20mg,Tab,Strip of 10,Cardio,254700,21600,D
+M2015016,Telmisartan 40mg Tab Strip of 10,40mg,Tab,Strip of 10,Cardio,943300,112500,D
+M4000603,Telmisartan 80mg Tab Strip of 10,80mg,Tab,Strip of 10,Cardio,42400,11100,D
+M3678026,Trifluoperazine 5mg Tab Strip of 10,5mg,Tab,Strip of 10,Psychiatric,39800,2800,E
+M3364005,Tropicamide + Phenylephrine (0.8% to 1%) + 5% Eye Drops 10 ml vial,(0.8% to 1%) + 5%,Eye Drops,10 ml vial,EYE,77830,35100,E
+M3263005,Vecuronium 2mg/ml amp. Inj 2ml Vial,2mg/ml amp.,Inj,2ml Vial,Aneasthesia,119405,60200,E
+M3057020,Vildagliptin 50mg Tab Strip of 14,50mg,Tab,Strip of 14,Anti Diabetic,864671,4543900,D
+M4000667,Voglibose 0.3mg Tab strip of 10,0.3mg,Tab,strip of 10,Anti Diabetic,242510,30200,D
+M4000668,Voglibose 0.2mg Tab strip of 10,0.2mg,Tab,strip of 10,Anti Diabetic,11200,1200,D
+M2853005,Xylometazoline 0.001 Nasal Drops 10ml vial,0.10%,Nasal Drops,10ml vial,ENT,183466,18200,E
+M2853006,Xylometazoline 0.0005 Nasal Drops 5 ml vial,5%,Nasal Drops,5 ml vial,ENT,155945,13700,E
+M4000007,Abiraterone 250 mg Tab Pack of 120,250 mg,Tab,Pack of 120,Anti Cancer,15,7100,C
+M1331003,"Acyclovir 0,05 Oint 5gm Tube",5%,Oint,5gm Tube,Anti Microbials,33205,14100,B
+M1331004,Acyclovir 400mg/ 5ml Oral Liquid 100 ml pack,400mg/ 5ml,Oral Liquid,100 ml pack,Anti Microbials,945,900,B
+M1331005,Acyclovir 400mg Tab Strip of 10,400mg,Tab,Strip of 10,Anti Microbials,74741,24800,B
+M1318025,Amikacin 250mg/2ml Inj 2ml vial,250mg/2ml,Inj,2ml vial,Anti Microbials,83125,13600,B
+M1318026,Amikacin 500mg/2ml Inj 2ml vial,500mg/2ml,Inj,2ml vial,Anti Microbials,577843,126700,B
+M1318001,Amoxycillin 250mg. Cap Strip of 10,250mg.,Cap,Strip of 10,Anti Microbials,1027405,169100,B
+M1318002,Amoxycillin 500mg. Cap Strip of 10,500mg.,Cap,Strip of 10,Anti Microbials,2456230,672400,B
+M1318003,Amoxycillin 125mg./ 5ml. Susp. 40ml Bottle,125mg./ 5ml.,Susp.,40ml Bottle,Anti Microbials,959744,156000,B
+M1318071,Amoxycillin Clavulanic acid 125+ 31.2mg/5ml Susp. 30 ml Bottle,125+ 31.2mg/ 5ml,Susp.,30 ml Bottle,Anti Microbials,391683,133000,B
+M1318072,Amoxycillin Clavulanic acid 375mg (250 mg + 125mg) Tab Strip of 10,375mg (250 mg + 125mg),Tab,Strip of 10,Anti Microbials,230365,179200,B
+M1318073,Amoxycillin Clavulanic acid 625mg (500 mg + 125 mg) Tab Strip of 10,625mg (500 mg + 125 mg),Tab,Strip of 10,Anti Microbials,1144377,1018500,B
+M1318085,Amoxycillin Clavulanic acid 1.2g Inj Vial,1.2g,Inj,Vial,Anti Microbials,480443,296100,B
+M1318086,Amoxycillin Clavulanic acid 600mg Inj Vial,600mg,Inj,Vial,Anti Microbials,47680,18000,B
+M4000024,Amphotericin B- Lipid emulsion 50mg/10ml 10 ml vial,50mg/10ml,,10 ml vial,Anti Microbials,955,23000,B
+M1318004,Ampicillin 250mg Cap Strip of 10,250mg,Cap,Strip of 10,Anti Microbials,46875,8200,B
+M1318005,Ampicillin 500mg Cap Strip of 10,500mg,Cap,Strip of 10,Anti Microbials,71350,21800,B
+M1318006,Ampicillin 125mg./5ml. Powder for Suspn. 40ml Bottle,125mg./5ml,Powder for Suspn.,40ml Bottle,Anti Microbials,19168,3500,B
+M1318007,Ampicillin 500mg. Powder/vial. Inj 500mg vial,500mg. Powder/vial,Inj,500mg vial,Anti Microbials,246133,30200,B
+M3156013,Anti Rabies vaccine (Chick Embryo/ Vero Cell/ Human deploid Cells) IP Inj:IM/ID pack Multi dose vial containing lyophilised vaccine that is reconstituted with diluent to a final volume of 1 ml. 1ml vial,Inj:IM/ID pack,Multi dose vial containi ng lyophilis ed vaccine that is reconstit uted with diluent to a final volume of ml.,1ml vial,Blood Product/V accines/S era,267603,791100,C
+M3156024,Anti Rh (D) Immunoglobulin Polyclonal/ monoclonal 300 mcg pack Inj 1-2 ml pack,300 mcg pack,Inj,1-2 ml pack,Blood Product/V accines/S era,7767,325100,C
+M4000038,Azathioprine 50mg Tab 10 tabs,50mg,Tab,10 tabs,Anti Cancer,7700,2700,C
+M1318021,Azithromycin 250 mg Tab Strip of 6,250 mg,Tab,Strip of 6,Anti Microbials,453611,84500,B
+M1318022,Azithromycin 500 mg Tab Strip of 3,500 mg,Tab,Strip of 3,Anti Microbials,1337768,396000,B
+M1318075,Azithromycin 500mg Inj Vial,500mg,Inj,Vial,Anti Microbials,23265,24900,B
+M1318076,Azithromycin 200mg/ 5ml Susp. 30 ml Bottle,200mg/ 5ml,Susp.,30 ml Bottle,Anti Microbials,73585,22400,B
+M4000062,Bicalutamide 50 mg Tab 10 tabs,50 mg,Tab,10 tabs,Anti Cancer,4010,6200,C
+M4000095,Caspofungin 50mg Inj 1 vial,50mg,Inj,1 vial,Anti Microbials,426,27700,B
+M1318077,Cefixime 100mg/5ml Syp 30 ml Bottle,100mg/5ml,Syp,30 ml Bottle,Anti Microbials,184790,53600,B
+M1318078,Cefixime 200mg Tab/ Cap Strip of 10,200mg,Tab/ Cap,Strip of 10,Anti Microbials,442715,231900,B
+M1318079,Cefixime 400mg Tab/ Cap Strip of 10,400mg,Tab/ Cap,Strip of 10,Anti Microbials,131650,144200,B
+M4000102,Cefoperazone +sulbactam 1gm + 0.5gm Inj 1 vial,1gm + 0.5gm,Inj,1 vial,Anti Microbials,2450,1400,B
+M4000104,Cefopodoxime 200mg Tab Strip of 10,200mg,Tab,Strip of 10,Anti Microbials,11270,9300,B
+M4000105,Cefopodoxime 100mg Tab Strip of 10,100mg,Tab,Strip of 10,Anti Microbials,1360,600,B
+M4000107,Cefotaxime 250mg vial Inj vial,250mg vial,Inj,vial,Anti Microbials,17650,2200,B
+M4000108,Cefotaxime 500mg vial Inj vial,500mg vial,Inj,vial,Anti Microbials,31950,5200,B
+M4000109,Cefotaxime 1 gm vial Inj vial,1 gm vial,Inj,vial,Anti Microbials,35260,9600,B
+M1318041,Ceftriaxone 500 mg. Inj 500mg vial,500 mg.,Inj,500mg vial,Anti Microbials,195460,34000,B
+M1318042,Ceftriaxone 1gm. Inj 1gm vial,1gm.,Inj,1gmvial,Anti Microbials,2377350,593800,B
+M4000112,cefuroxime axetil 250mg Tab Strip of 10,250mg,Tab,Strip of 10,Anti Microbials,27950,22600,B
+M4000113,cefuroxime axetil 500mg Tab Strip of 10,500mg,Tab,Strip of 10,Anti Microbials,38825,58800,B
+M1318036,Cephalexin 125 mg. Tab Dispersible Strip of 10,125 mg.,Tab Dispersi ble,Strip of 10,Anti Microbials,153490,25300,B
+M1318037,Cephalexin 250 mg. Cap Strip of 10,250 mg.,Cap,Strip of 10,Anti Microbials,387810,108200,B
+M1318038,Cephalexin 500 mg. Cap Strip of 10,500 mg.,Cap,Strip of 10,Anti Microbials,849010,464200,B
+M1318039,Cephalexin 125mg./ 5ml. Syp 30ml Bottle,125mg./ 5ml.,Syp,30ml Bottle,Anti Microbials,143800,23300,B
+M1318040,Cephalexin 125mg./ 5ml. Syp 60ml Bottle,125mg./ 5ml.,Syp,60ml Bottle,Anti Microbials,253818,65200,B
+M4000120,Chloramphenicol 1 gm Inj Vial,1 gm,Inj,Vial,Anti Microbials,3570,1600,B
+M4000121,Chlordiazepoxide 10mg Tab Strip of 10,10mg,Tab,Strip of 10,Anti Microbials,2000,100,B
+M1318027,Ciprofloxacin 250mg. Tab Strip of 10,250mg.,Tab,Strip of 10,Anti Microbials,200370,29100,B
+M1318028,Ciprofloxacin 500mg. Tab Strip of 10,500mg.,Tab,Strip of 10,Anti Microbials,935838,270500,B
+M1318029,Ciprofloxacin 100mg/50ml Infusion 100 ml Polypack,100mg/50 ml,Infusion,100 ml Polypack,Anti Microbials,218370,33900,B
+M3321015,Ciprofloxacin 0. .3% Eye Drops 5ml vial,0. 3%,Eye Drops,5ml vial,Anti Microbials,208038,16300,B
+M3321016,Ciprofloxacin 0.3% Eye Drops 10ml vial,0.30%,Eye Drops,10ml vial,Anti Microbials,366268,30300,B
+M4000134,Ciprofloxacin + Tinidazole 500mg + 600mg Tab Strip of 10,500mg + 600mg,Tab,Strip of 10,Anti Microbials,83100,30800,B
+M4000140,Clarithromycin 500mg Tab Strip of 10,500mg,Tab,Strip of 10,Anti Microbials,12890,23200,B
+M4000141,Clindamycin 150mg/ml Inj 4ml,150mg/ml,Inj,4ml,Anti Microbials,66040,35100,B
+M4000142,Clindamycin 150mg Cap strip of 4,150mg,Cap,strip of 4,Anti Microbials,7900,2300,B
+M4000143,Clindamycin 300mg Tab Strip of 10,300mg,Tab,Strip of 10,Anti Microbials,11540,18600,B
+M4000145,Clindamycin phosphate 1% gel 20gm Gel Strip of 10,20gm,Gel,Strip of 10,Anti Microbials,39110,9200,B
+M2239001,"Clotrimazole 0,01 Cream 15gm tube",1%,Cream,15gm tube,Anti Microbials,1176459,117400,B
+M2239002,Clotrimazole 1% (in a starch base) Powder 75gm pack,1% (in a starch base),Powder,75gm pack,Anti Microbials,257748,82000,B
+M2239003,Clotrimazole Vaginal Pessary 100mg Strip of 6,Vaginal Pessary,100mg,Strip of 6,Anti Microbials,157623,18200,B
+M1318008,Cloxacillin 500mg Cap Strip of 10,500mg,Cap,Strip of 10,Anti Microbials,313095,119300,B
+M1318009,Cloxacillin 125mg./ 5ml. Powder for Suspn. 40ml Bottle,125mg./ 5ml.,Powder for Suspn.,40ml Bottle,Anti Microbials,106165,23700,B
+M1318010,Cloxacillin 500mg./ vial. Inj 500mg vial,500mg./ vial.,Inj,500mg vial,Anti Microbials,85725,13700,B
+M1318011,Cloxacillin 250mg. Cap Strip of 10,250mg.,Cap,Strip of 10,Anti Microbials,161400,30800,B
+M4000157,Colistimethate Sodium powder 1 milloin IU Inj vial,1 milloin IU,Inj,vial,Anti Microbials,28150,112100,B
+M1635018,Cyclosporine A 50mg Cap Strip of 5,50mg,Cap,Strip of 5,Anti Microbials,15200,36100,B
+M1635019,Cyclosporine A 100mg Cap Strip of 5,100mg,Cap,Strip of 5,Anti Microbials,5680,25600,B
+M1736011,Desferrioxamine 500mg in vial Inj 500mg vial,500mg in vial,Inj,500mg vial,Blood Product/V accines/S era,91500,340100,C
+M1940002,Dextran 40 Dextran 40 10% w/v in Nacl (0.9% w/v) Inj 500ml Bottle,Dextran 40 10% w/v in Nacl (0.9% w/v),Inj,500ml Bottle,IV Fluds,1835,10000,C
+M3780003,Dextrose 0.05 Inj 500ml IV fluid Pack,5%,Inj,500ml IV fluid Pack,IV Fluds,456499,139600,C
+M3780006,Dextrose 0.1 Inj 500ml IV fluid Pack,10%,Inj,500ml IV fluid Pack,IV Fluds,50403,17200,C
+M3780041,"Dextrose with multiple electrolyte PH: 4-6, calories:17- =180 per litre, calculated osmolarity: 340- 380mosm/l, Dextrose 5% with sodium 23- 25 mEq/L, chloride 24-29 mEq/L, Lactate 23 mEq/L, Potassium 20 mEq/L, Magnesium 3 mEq/L. Inj 500ml IV fluid Pack","PH: 4-6, calories: =180 per litre, calculated osmolarity: 340- 380mosm/l, Dextrose 5% with sodium 23- 25 mEq/L, chloride 24- 29 mEq/L, Lactate 23 mEq/L, Potassium 20 mEq/L, Magnesium 3 mEq/L.",Inj,500ml IV fluid Pack,IV Fluds,132070,51700,C
+M3780025,"Dextrose with Saline (DNS) 5% + 0,9% Inj 500ml IV fluid Pack",5% + 0.9%,Inj,500ml IV fluid Pack,IV Fluds,641328,196100,C
+M3780042,"Dextrose with Saline (N/2 DNS) 5% + 0,45% Inj 500ml IV fluid Pack","5% + 0,45%",Inj,500ml IV fluid Pack,IV Fluds,134055,42900,C
+M3780043,Dextrose with Saline (N/4 DNS) 5% + 0.22% Inj 500ml IV fluid Pack,5% + 0.22%,Inj,500ml IV fluid Pack,IV Fluds,49790,16800,C
+M4000201,Docetaxel 20mg Inj vial,20mg,Inj,vial,Anti Cancer,1700,6400,C
+M4000202,Docetaxel 80mg Inj vial,80mg,Inj,vial,Anti Cancer,2750,30700,C
+M1318068,Doxycycline 100 mg Cap Strip of 10,100 mg,Cap,Strip of 10,Anti Microbials,752141,106700,B
+M2749005,Enoxaparin 40mg/0.4ml Prefilled Syringe Inj One Syringe,40mg/0.4ml Prefilled Syringe,Inj,One Syringe,Blood Product/V accines/S era,65445,127800,C
+M2749006,Enoxaparin 60 mg./0.6 ml. Prefilled Syringe Inj One Syringe,60 mg./0.6 ml. Prefilled Syringe,Inj,One Syringe,Blood Product/V accines/S era,92080,222200,C
+M1331010,Entacavir 0.5mg Tab Strip of 10,0.5mg,Tab,Strip of 10,Anti Microbials,19659,80300,B
+M4000721,Epirubicin 50 mg Inj vial,50 mg,Inj,vial,Anti Cancer,4020,38700,C
+M4000217,Erlotinib 150 mg Tab Strip of 10,150 mg,Tab,Strip of 10,Anti Cancer,5350,74900,C
+M1318020,Erythromycin (as Stearate) 125mg/5ml Powder for Susp 60ml Bottle,125mg/5ml,Powder for Susp,60ml Bottle,Anti Microbials,33861,12000,B
+M3057023,Erythropoetin 2000 IU Inj Vial/PFS,2000 IU,Inj,Vial/PFS,Blood Product/V accines/S era,1066,2300,C
+M3057024,Erythropoetin 4000 IU Inj Vial/PFS,4000 IU,Inj,Vial/PFS,Blood Product/V accines/S era,56472,158200,C
+M4000722,Erythropoetin 10000 IU Inj Vial/PFS,10000 IU,Inj,Vial/PFS,Blood Product/V accines/S era,3920,33500,C
+M2214004,Framycetin 0.01 Cream 30gm tube,1%,Cream,30gm tube,Anti Microbials,847692,484500,B
+M4000811,"Fusidic acid 2% 0,02 Cream 10- 15gm",2%,Cream,10-15gm,Anti Microbials,99130,45400,B
+M4000256,Gatifloxacine 0.3% 0.003 Eye Drops 5ml,0.30%,Eye Drops,5ml,Anti Microbials,24850,3700,B
+M4000258,Gefitinib 250 mg Tab Strip of 10,250 mg,Tab,Strip of 10,Anti Cancer,3500,14500,C
+M1635053,Gemcitabine 200mg Inj Vial,200mg,Inj,Vial,Anti Cancer,2050,3100,C
+M1318023,Gentamicin 40mg/ml Inj 2ml vial,40mg/ml,Inj,2ml vial,Anti Microbials,280132,24600,B
+M3780034,Glycine 1.5% Inj 3 Litre in Poly Propylene Pack,1.50%,Inj,3 Litre in Poly Propylene Pack,IV Fluds,1790,3500,C
+M1320001,Griseofulvin Ultra- micronised 125mg Tab Strip of 10,125mg,Tab,Strip of 10,Anti Microbials,81775,16400,B
+M1320002,Griseofulvin Ultra- micronised 250mg Tab Strip of 10,250mg,Tab,Strip of 10,Anti Microbials,378375,135200,B
+M3156027,Hepatitis B immunoglobulin 100 IU Inj 100 IU pack,100 IU,Inj,100 IU pack,Blood Product/V accines/S era,1682,72400,C
+M3156028,Hepatitis B immunoglobulin 200 IU Inj 200 IU pack,200 IU,Inj,200 IU pack,Blood Product/V accines/S era,1835,143000,C
+M3156008,"Hepatitis- B Vaccine IP DNA recombinant genetically engineered non- infectious vaccine), The label on each vial should include a Vaccine Vial Monitor (VVM), The Vaccine Vial Monitor (VVM) ""shall be as per WHO Specifications,B.C.G. IP (freeze Dried bacillu 20 mcg/ 1ml (Each 1 ml contains purified HbsAg & (Al+++) 0.5mg to 0.8mg & thiomersal 0.05mg.) Inj 1ml""",20 mcg/ 1ml (Each 1 ml contains purified HbsAg & (Al+++) 0.5mg to 0.8mg & thiomersal 0.05mg.),Inj,1ml,Blood Product/V accines/S era,200,200,C
+M3156030,Human Normal Immunoglobulin (IV- lg) Inj. 5% Inj 5 gm in 100ml Vial,Inj. 5%,Inj,5 gm in 100ml Vial,Blood Product/V accines/S era,7614,1450500,C
+M3386010,Hyaluronidase 1500 Unit/ml Inj 1ml vial,1500 Unit/ml,Inj,1ml vial,Blood Product/V accines/S era,26105,54900,C
+M4000295,Imipenem/Cilastatin 250mg + 250mg Inj vial,250mg + 250mg,Inj,vial,Anti Microbials,2200,5000,B
+M4000296,Imipenem /Cilastatin 500 mg + 500mg Inj vial,500 mg + 500mg,Inj,vial,Anti Microbials,19350,70300,B
+M3678001,Imipramine 25 mg. Tab Strip of 10,25 mg.,Tab,Strip of 10,Anti Microbials,67000,3600,B
+M4000753,lodinated non-ionic contrast monomer- lohexol/ lopamidol/ lomeprol/loversol/ lobitridol 350-370 mg/ml Inj 50ml,350-370 mg/ml,Inj,50ml,Contrast Media,92200,866500,C
+M4000754,lodinated non-ionic contrast monomer- lohexol/ lopamidol/ lomeprol/loversol/ lobitridol 350-370 mg/ml Inj 100ml,350-370 mg/ml,Inj,100ml,Contrast Media,24750,445500,C
+M4000305,Irinotecan Tab 100 mg,,Tab,100 mg,Anti Cancer,280,4400,C
+M4000315,Itraconazole 100mg Cap Strip of 10,100mg,Cap,Strip of 10,Anti Microbials,90130,90200,B
+M1358012,Ivermectin 6 mg Tab Strip of 2,6 mg,Tab,Strip of 2,Anti Microbials,81365,2900,B
+M1358013,Ivermectin 12 mg Tab Strip of 2,12 mg,Tab,Strip of 2,Anti Microbials,22463,2000,B
+M4000316,ketoconazole 2% lotion 0.02 Lotion 60ml,2%,Lotion,60ml,Anti Microbials,76650,25000,B
+M4000808,Kojic acid 2% 0.02 Cream 15 grams,2%,Cream,15 grams,Anti Microbials,43470,68500,B
+M4000334,Lefunomide 10mg Tab Strip of 10,10mg,Tab,Strip of 10,Anti Cancer,865,300,C
+M4000335,Lenalidomide 10 mg Tab 30,10 mg,Tab,30,Anti Cancer,250,2800,C
+M4000336,Lenalidomide 25 mg Tab 30,25 mg,Tab,30,Anti Cancer,50,3300,C
+M1318080,Levofloxacin 500mg/ 100ml Infusion 100 ml pack,500mg/ 100ml,Infusion,100 ml pack,Anti Microbials,85535,30300,B
+M1318081,Levofloxacin 500mg Tab Strip of 10,500mg,Tab,Strip of 10,Anti Microbials,121390,47600,B
+M4000337,Linezolid 600mg Inj Vial,600mg,Inj,Vial,Anti Microbials,19420,24500,B
+M4000338,Linezolid 600mg Tab Strip of 10,600mg,Tab,Strip of 10,Anti Microbials,12715,26900,B
+M4000356,Linezolid 200mg/100ml Infusion 300ml pack,200mg/100 ml,Infusion,300ml pack,Anti Microbials,13450,12500,B
+M2365017,lohexol 50ml bottle Inj 300 mg/ ml,50ml bottle,Inj,300 mg/ ml,Contrast Media,1550,13500,C
+M2365021,lohexol 350 mg./ ml Inj 100 ml. bottle,350 mg./ ml,Inj,100 ml. bottle,Contrast Media,19845,357300,C
+M1318055,Meropenem 500 mg. Inj 500 mg. vial,500 mg.,Inj,500 mg. vial,Anti Microbials,41492,62600,B
+M1318056,Meropenem 1 Gm. Inj 1 gm. vial,1 Gm.,Inj,1 gm. vial,Anti Microbials,109300,310900,B
+M2239004,Miconazole Nitrate 0.02 Cream 15gm tube,2%,Cream,15gm tube,Anti Microbials,664750,70000,B
+M4000412,Minocycline 100mg Tab Strip of 10,100mg,Tab,Strip of 10,Anti Microbials,1505,4800,B
+M3881028,"Mixed TPN (Central) Amino acid + electrolyte + lipids + Dextrose, 1000-2000 mOsmo/l Infusion 1000 ml","Amino acid + electrolyte + lipids + Dextrose, 1000-2000 mOsmo/l",Infusion,1000 ml,IV Fluds,4165,102200,C
+M3984045,"Mixed TPN (peripheral) Amino acid + electrolyte + lipids + Dextrose, 700-900 mOsmo/l Infusion 1000- 1500ml","Amino acid + electrolyte + lipids + Dextrose, 700-900 mOsmo/l",Infusion,1000- 1500ml,IV Fluds,9530,225000,C
+M4000422,Moxiflox + Ketorolec 0.5%/ 0.5 Eye Drops 5ml,"0.5%/ 0,5",Eye Drops,5ml,Anti Microbials,49030,7300,B
+M4000426,Moxifloxain preservative free 0.5% 0.005 Eye Drops 5ml vial,0.50%,Eye Drops,5ml vial,Anti Microbials,110920,15600,B
+M4000428,Mupirocin 2%w/w Oint 5g,2%w/w,Oint,5g,Anti Microbials,20157,10500,B
+M4000429,Mupirocin 0.02 Cream 5gm,2%,Cream,5gm,Anti Microbials,33230,21000,B
+M4000430,Mycophenolate Mofetil 500mg Tab pack of 10,500mg,Tab,pack of 10,Anti Microbials,6733,16500,B
+M4000432,Nadifloxacin 1% 10gm Cream 10gm tube,10gm,Cream,10gm tube,Anti Microbials,2120,2400,B
+M4000444,Netilmicin Sulphate 100mg/2ml Inj 2ml amp,100mg/2ml,Inj,2ml amp,Anti Microbials,1350,2700,B
+M1318032,Norfloxacin 400mg Tab. (coated) Strip of 10,400mg,Tab. (coated),Strip of 10,Anti Microbials,499988,117700,B
+M4000454,Normal Saline (Glass Bottle) 0.009 Inj 500 glass bottle,0.90%,Inj,500 glass bottle,IV Fluds,14360,7200,C
+M4000773,Normal Saline Infusion 0.009 Inj 3 litre bottle,90%,Inj,3 litre bottle,IV Fluds,2290,4300,C
+M4000774,Normal Saline Infusion 0.009 Inj 100ml bottle,90%,Inj,100ml bottle,IV Fluds,17080,2900,C
+M4000456,Ofloxacin 200mg/100 ml bottle Inj 100ml vial,200mg/100 ml bottle,Inj,100ml vial,Anti Microbials,30440,7000,B
+M4000457,Ofloxacin 200mg Tab Strip of 10,200mg,Tab,Strip of 10,Anti Microbials,114130,19700,B
+M4000458,Ofloxacin 400mg Tab Strip of 10,400mg,Tab,Strip of 10,Anti Microbials,86155,27600,B
+M4000460,Ofloxacin 0.003 Eye Drops 5ml,0.30%,Eye Drops,5ml,Anti Microbials,72525,5500,B
+M4000459,Ofloxacin + Ornidazole 200mg + 500mg Tab Strip of 10,200mg + 500mg,Tab,Strip of 10,Anti Microbials,102580,30400,B
+M4000466,Ornidazole 500mg Tab strip of 10,500mg,Tab,strip of 10,Anti Microbials,5090,1000,B
+M1635063,Oxaliplatin 100mg Inj Vial,100mg,Inj,Vial,Anti Cancer,1110,12300,C
+M1635044,Paclitaxel 260 mg. /vial Inj Per vial of 260 mg,260 mg. /vial,Inj,Per vial of 260 mg,Anti Cancer,1560,29300,C
+M4000780,Pemetrexed 500 mg Inj vial,500 mg,Inj,vial,Anti Cancer,150,4100,C
+M40007801,"Penta starch (HES ""200/0.5) 200/0.5 500 ml""",200/0.5,,500 ml,IV Fluds,8143,20400,C
+M4000500,Polymyxin B 500000 Units Inj vial,500000 Units,Inj,vial,Anti Microbials,4950,35800,B
+M3156032,Rabies Immunoglobulin 300 IU/ml (Equaine) Inj 5 ml pack,300 IU/ml (Equaine),Inj,5 ml pack,Blood Product/V accines/S era,122595,991400,C
+M4000535,Rifaximin 550mg Tab Strip of 10,550mg,Tab,Strip of 10,Anti Microbials,14850,29500,B
+M3780017,Ringer Lactate Inj 500ml pack,,Inj,500ml pack,IV Fluds,1068572,334000,C
+M4000538,Rituximab 100mg per vial Inj vial,100mg per vial,Inj,vial,Anti Cancer,300,19500,C
+M4000539,Rituximab 500mg per vial Inj vial,500mg per vial,Inj,vial,Anti Cancer,465,151000,C
+M2214001,"Silver sulfadiazine 0,01 Cream 20gm tube",1%,Cream,20gm tube,Anti Microbials,146648,31400,B
+M2214003,"Silver sulfadiazine 0,01 Cream 500gm Jar",1%,Cream,500gm Jar,Anti Microbials,4065,13500,B
+M1736006,Snake venom Anti Serum (Polyvalent) lyophilized/Liquid Inj 10 ml Vial,,Inj,10 ml Vial,Blood Product/V accines/S era,6389,67100,C
+M3780014,Sodium Chloride 0.009 Inj 500ml pack,0.90%,Inj,500ml pack,IV Fluds,2731175,794800,C
+M4000568,Sodium Chloride 3% Infusion fluid 0.03 Inj 100ml,3%,Inj,100ml,IV Fluds,10340,3400,C
+M4000581,Sofosbuvir 400mg Tab 28,400mg,Tab,28,Anti Microbials,2578,83100,B
+M1318064,Sulfamethoxazole + Trimethoprim 400mg+80mg Tab Strip of 10,400mg+80 mg,Tab,Strip of 10,Anti Microbials,197975,24000,B
+M1318065,Sulfamethoxazole + Trimethoprim 800mg+160mg Tab Strip of 10,800mg+16 Omg,Tab,Strip of 10,Anti Microbials,302533,78300,B
+M1318066,Sulfamethoxazole + Trimethoprim 200mg+40mg in 5ml Oral Susp. 50 ml Bottle,200mg+40 mg in 5ml,Oral Susp.,50 ml Bottle,Anti Microbials,204190,33200,B
+M1318067,Sulfamethoxazole + Trimethoprim 200mg+40mg in 5ml Oral Susp. 100 ml Bottle,200mg+40 mg in 5ml,Oral Susp.,100 ml Bottle,Anti Microbials,68245,17000,B
+M4000790,Sulphasalazine 500mg Tab Strip of 10,500mg,Tab,Strip of 10,Anti Microbials,31620,15400,B
+M4000593,Tacrolimus 2mg Cap strip of 10 cap,2mg,Cap,strip of 10 cap,Anti Cancer,400,1800,C
+M4000792,Tacrolimus 0.001 Cream 10gm tube,10%,Cream,10gm tube,Anti Cancer,60630,81900,C
+M4000793,Tacrolimus 1mg Cap strip of 10 capsule,1mg,Cap,strip of 10 capsule,Anti Cancer,2100,3600,C
+M1318061,Teicoplanin 200mg/vial Inj One vial,200mg/vial,Inj,One vial,Anti Microbials,26810,104700,B
+M1318062,Teicoplanin 400mg/ vial Inj One vial,400mg/ vial,Inj,One vial,Anti Microbials,21805,158800,B
+M4000608,Terbinafine Hydrochloride 250mg Tab strip of 7,250mg,Tab,strip of 7,Anti Microbials,249910,121900,B
+M4000609,Terbinafine Hydrochloride 0.01 Cream 10gm,1%,Cream,10gm,Anti Microbials,62850,7700,B
+M4000611,Terlipressin 1mg Inj 1ml amp.,1mg,Inj,1ml amp.,Anti Microbials,5620,23700,B
+M3156012,"Tetanus Toxoid ( adsorbed) sterile suspension prepared from tetanus toxoid containing not less than 1000 Limes flocculationis (Lf) adsorbed on a mineral carrier in saline solution or other appropriate solution isotonic to blood. The potency of tetanus vac Each 0,5 ml contains not more than 25 Lf of tetanus toxoid Inj 5ml vial(containing 10 doses plus 15% overfill.)",Each 0.5 ml contains not more than 25 Lf of tetanus toxoid,Inj,5ml vial(containi ng 10 doses plus 15% overfill.),Blood Product/V accines/S era,1740,900,C
+M4000616,Thalidomide 100mg Tab strip of 10,100mg,Tab,strip of 10,Anti Microbials,280,500,B
+M4000617,Thalidomide 50 mg Tab strip of 10,50 mg,Tab,strip of 10,Anti Microbials,1230,2300,B
+M4000622,Tigecyclin 50mg Inj 5ml vial,50mg,Inj,5ml vial,Anti Microbials,3880,35600,B
+M1328014,Tinidazole 300mg Tab Strip of 10,300mg,Tab,Strip of 10,Anti Microbials,33300,3200,B
+M1328015,Tinidazole 500 mg. Tab Strip of 10,500 mg.,Tab,Strip of 10,Anti Microbials,102420,14700,B
+M3321020,Tobramycin 0.003 Eye Drops 5ml vial,0.30%,Eye Drops,5ml vial,IV Fluds,310015,65200,C
+M4000640,Trastuzumab 440 mg Inj 50ml vial,440 mg,Inj,50ml vial,Anti Cancer,286,202800,C
+M1318058,Vancomycin as hydrochloride 500mg Powder Inj 500mg vial,500mg Powder,Inj,500mg vial,Anti Microbials,271395,249700,B
+M4000670,Voriconazole 200mg Tab strip of 10,200mg,Tab,strip of 10,Anti Microbials,270,5800,B
+M 4000008,Acebrophylline 100mcg Tab 10 tabs,100mcg,Tab,10 tabs,General,7150,1700,A1
+M 4000009,acelofenac 100mg Tab strip of 10,100mg,Tab,strip of 10,General,69700,3100,A1
+M 3386005,Acetazolamide 250mg Tab Strip of 10,250mg,Tab,Strip of 10,General,67261,13200,A1
+M 1111003,Acetylsalicylic Acid 75mg Tab Strip of 14,75mg,Tab,Strip of 14,General,1356416,82800,A1
+M 1532014,Adrenaline bitartrate 1mg/ml Inj 1ml amp.,1mg/ml,Inj,1ml amp.,General,357739,32700,A1
+M 1358006,Albendazole 200 mg/ 5ml Susp. 10 ml Bottle,200 mg/ 5ml,Susp.,10 ml Bottle,General,360900,29700,A1
+M 3984010,Alphacalcidol (vitamin D) 0.25mcg Cap Strip of 10,0.25mcg,Cap,Strip of 10,General,1278670,243600,A1
+M 4000687,Ambroxol 30mg/5ml Syp 100ml,30mg/5ml,Syp,100ml,General,116850,27700,A1
+M 3881021,Amino Acid 10% soln. All Essential and non essential amino acid 1000- 1200 mOsmol/l Infusion 500ml bottle/ container,All Essential and non essential amino acid 1000-1200 mOsmol/l,Infusion,500ml bottle/ contain er,General,11470,63100,A1
+M 4000021,Aminophyline 250 mg/ml Inj 10ml vial,250 mg/ml,Inj,10ml vial,General,12720,1900,A1
+M 4000689,Artesunate 60mg Inj 1 vial,60mg,Inj,1 vial,General,48535,8700,A1
+M 4000031,Artesunate + lumifantrine 40mg+240mg Tab 10 tabs,40mg+240 mg,Tab,10 tabs,General,9110,3500,A1
+M 4000690,Artesunate + lumifantrine 80mg+480mg Tab 10 tabs,80mg+480 mg,Tab,10 tabs,General,8338,6700,A1
+M 1074008,Atropine Sulphate 0.6mg/ml Inj 1 ml vial,0.6mg/ml,Inj,1 ml vial,General,242988,13800,A1
+M 4000044,Baclofen 10mg Tab 10 tabs,10mg,Tab,10 tabs,General,25450,10100,A1
+M 2917002,Beclomethasone Dipropionate + Phenylepherine + Lignocaine (0.025 % +0.1%+ 2.5%) Cream 20gm Tube,(0.025 % +0.1%+ 2.5%),Cream,20gm Tube,General,201475,107000,A1
+M 4000050,Benzoyl peroxide 0.025 Cream 15gm,2.50%,Cream,15gm,General,84100,41800,A1
+M 4000049,"Benzoyl peroxide 0,05 Cream 15gm",5%,Cream,15gm,General,39400,26600,A1
+M 2279003,"Benzyl benzoate 0,25 Lotion 400 ml bottle",25%,Lotion,400 ml bottle,General,16075,17900,A1
+M 4000056,Betahistine 8mg Tab 10 tabs,8mg,Tab,10 tabs,General,45626,2400,A1
+M 4000057,Betahistine 16mg Tab 10 tabs,16mg,Tab,10 tabs,General,122227,23000,A1
+M 2222001,Betamethasone Dipropionate 0. 05% Cream 20gm tube,0.05%,Cream,20gm tube,General,814933,135500,A1
+M 4000065,Biotin 10mg Tab 10 tabs,10mg,Tab,10 tabs,General,106960,28700,A1
+M 2942001,Bisacodyl 5mg. Tab Strip of 10,5mg.,Tab,Strip of 10,General,266270,12700,A1
+M 2647016,Bromhexine Hydrochloride 4mg./ 5ml Syp 100ml Bottle,4mg./5ml,Syp,100ml Bottle,General,1471310,240600,A1
+M 2647017,"Budesonide 100 mcg./ dose Inhalation aerosol,Metered Dose inhaler, CFC free 200 doses Pack",100 mcg./ dose,"Inhalatio n aerosol, Metered Dose inhaler, CFC free",200 doses Pack,General,175723,335000,A1
+M 4000680,Budesonide 0.5 mg/2 ml Respules standard pack size,0.5 mg/2 ml,Respule S,standa rd pack size,General,154080,17900,A1
+M 3984015,"Calcium Carbonate 500mg elemental ""Calcium Tab Strip of 10""",500mg elemental Calcium,Tab,Strip of 10,General,10526090,563200,A1
+M 2445001,Chlorhexidine 0. 2% Soln. 100 ml Bottle,0.20%,Soln.,100 ml Bottle,General,279530,41800,A1
+M 2445002,Chlorhexidine 0.04 Scrub. 500 ml Bottle,4.00%,Scrub.,500 ml Bottle,General,19041,28800,A1
+M 1328001,Chloroquine Phosphate 250mg Tab Strip of 10,250mg,Tab,Strip of 10,General,64163,7400,A1
+M 1328003,Chloroquine Phosphate 50 mg./ 5ml. Syp 60 ml Bottle,50 mg./ 5ml.,Syp,60 ml Bottle,General,8700,1800,A1
+M 1532001,Chlorpheniramine Mateate 4mg. Tab Strip of 10,4mg.,Tab,Strip of 10,General,3204970,58500,A1
+M 4000128,Cholecalciferol I.P ( Vit D3) in an oily base 6 lakh units /ml Inj 1ml,6 lakh units /ml,Inj,1ml,General,6985,1200,A1
+M 2144004,Choline Salicylate soln+ Benzalkonium chloride soln + Lignocaine HCL IP (8.7 to 9% w/b) + (0.01 to 0.02%) + 2% w/w in flavoured jelly base oral gel Gel 30g tube,(8.7 to 9% w/b) + (0.01 to 0.02%) + 2% w/w in flavoured jelly base oral gel,Gel,30g tube,General,265309,52100,A1
+M 4000130,Chymotrypsin + trypsin 1lac Unit Tab strip of 10,1lac Unit,Tab,strip of 10,General,79415,20400,A1
+M 4000132,Cilastazol 50mg Tab Strip of 10,50mg,Tab,Strip of 10,General,1250,600,A1
+M 1532002,Cinnarizine 25mg Tab Strip of 10,25mg,Tab,Strip of 10,General,131745,5800,A1
+M 2222002,Clobetasol Propionate 0.0005 Cream 10 gm. Tube,0.05%,Cream,10 gm. Tube,General,401340,43800,A1
+M 4000148,Clobetasol propionate 0.05% ointment plus salicylic acid 3% 0.05% +3% Lotion 30 ml,"0,05% +3%",Lotion,30 ml,General,10400,3900,A1
+M 4000701,Clobetasol propionate 0.05% ointment plus salicylic acid 3% 0.05% +3% Oint 15 gm,0.05% +3%,Oint,15 gm,General,116500,22000,A1
+M 3010012,Clomiphene citrate 50 mg Tab Strip of 10,50 mg,Tab,Strip of 10,General,3500,3400,A1
+M 4000180,Deflazacort 6mg Tab Strip of 10,6mg,Tab,Strip of 10,General,4057,900,A1
+M 4000803,Deflazacort 30mg Tab Strip of 10,30mg,Tab,Strip of 10,General,1670,1400,A1
+M 1532007,Dexamethasone Sodium Phosphate 4mg/ml Inj 2 ml vial,4mg/ml,Inj,2 ml vial,General,297022,22800,A1
+M 2647008,Dextromethorphan 30mg./5ml. Soln. 60ml Bottle,30mg./5ml,Soln.,60ml Bottle,General,966925,211300,A1
+M 1111022,Diclofenac Sodium 50mg Tab Strip of 10,50mg,Tab,Strip of 10,General,4072445,131400,A1
+M 1111025,Diclofenac Sodium 1% w/w Gel 20 gm. tube,1%w/w,Gel,20 gm. tube,General,2104330,206800,A1
+M 1111034,Diclofenac Sodium 25mg/ml Inj 3ml amp,25mg/ml,Inj,3ml amp,General,311858,11000,A1
+M 1111038,Diclofenac Sodium 100 mg Tab. (SR) Strip of 10,100 mg,Tab. (SR),Strip of 10,General,1015700,76200,A1
+M 2929001,Dicyclomine 10mg. Tab Strip of 10,10mg.,Tab,Strip of 10,General,421370,11700,A1
+M 2929002,Dicyclomine 10mg./ml Inj 2ml amp.,10mg./ml,Inj,2ml amp.,General,58122,2000,A1
+M 4000193,Dicyclomine + Activated Simethicone/Dimet hicone 10mg + 40mg/ml Drops 10ml bottle,10mg + 40mg/ml,Drops,10ml bottle,General,39175,3300,A1
+M 4000194,Dicyclomine + Mefanimic Acid 10mg + 250mg Tab Strip of 10,10mg + 250mg,Tab,Strip of 10,General,23170,1500,A1
+M 2929003,Dicyclomine+/ Activa ted Dimethicone/ Simethicone 10mg.+ 40mg./ml. Drops 10ml with dropper,10mg.+ 40mg./ ml.,Drops,10ml with droppe r,General,84135,8600,A1
+M 2647010,Diphenhydramine 12.5mg./ 5 ml. Syp 100ml Bottle,12.5mg./5 ml.,Syp,100ml Bottle,General,1295114,184900,A1
+M 2938005,Domperidone 1mg./ ml. Susp. 30ml Bottle,1mg./ ml.,Susp.,30ml Bottle,General,220718,18700,A1
+M 2938006,Domperidone 10 mg. Tab Strip of 10,10 mg.,Tab,Strip of 10,General,630110,19300,A1
+M 4000207,Doxofylline 400mg Tab Strip of 10,400mg,Tab,Strip of 10,General,23920,6900,A1
+M 4000210,Drotaverine 40mg Tab Strip of 10,40mg,Tab,Strip of 10,General,22470,2300,A1
+M 4000211,Drotaverine 40mg/2ml Inj 2ml vial,40mg/2ml,Inj,2ml vial,General,100250,9600,A1
+M 4000714,Enteral Nutrition suitable for Diabetic Pt 200gm Sachet /Tin,,200gm,Sachet /Tin,General,18800,53800,A1
+M 4000718,Enteral Nutrition suitable for Renal Pt 200gm Sachet /Tin,,200gm,Sachet /Tin,General,5675,18400,A1
+M 4000220,Esomeprazole 20mg Tab Strip of 10,20mg,Tab,Strip of 10,General,19500,1600,A1
+M 2647011,Etophylline+ Theophylline 150 mg SR Tab Strip of 10,150 mg SR,Tab,Strip of 10,General,710923,56600,A1
+M 2647014,Etophylline+ Theophylline 220mg/2ml (169.4+50.6mg) Inj 2 ml amp.,220mg/2m I (169.4+50. 6mg),Inj,2 ml amp.,General,198899,8300,A1
+M 2647019,Etophylline+ Theophylline 100mg (77+23mg) Tab Strip of 10,100mg (77+23mg ),Tab,Strip of 10,General,134640,5700,A1
+M 4000226,Etoricoxib 90mg Tab Strip of 10,90mg,Tab,Strip of 10,General,160980,56200,A1
+M 4000227,Etoricoxib 120mg Tab Strip of 10,120mg,Tab,Strip of 10,General,123420,54300,A1
+M 2733011,"Ferrous fumarate ""30mg/5ml (elemental Iron equivalent to 30 mg) Syp 60 ml Bottle""","30mg/5ml ""(elemental Iron equivalent to 30 mg)""",Syp,60 ml Bottle,General,37175,5700,A1
+M 2733001,Ferrous Sulphate 200mg (equivalent to 60 mg elemental iron) Tab Strip of 10,200mg (equivalen t to 60 mg elemental iron),Tab,Strip of 10,General,3145600,117200,A1
+M 4000234,Fexofenadine 120mg Tab Strip of 10,120mg,Tab,Strip of 10,General,79310,22700,A1
+M 4000235,Fexofenadine 180mg Tab Strip of 10,180mg,Tab,Strip of 10,General,14850,6100,A1
+M 4000241,Flavoxate 200mg Tab Strip of 10,200mg,Tab,Strip of 10,General,28040,15900,A1
+M 4000249,Fluticasone propionate 0.0005 Cream 10g,0.05%,Cream,10g,General,31550,6900,A1
+M 2733003,Folic Acid 5mg Tab Strip of 10,5mg,Tab,Strip of 10,General,2205250,57400,A1
+M 2445003,Glutaraldehyde Activated without Foaming to remain Alkaline for 2 weeks 2% w/v Soln. 5 Ltr. Bottle,2% w/v,Soln.,5 Ltr. Bottle,General Chemical,21272,120800,A
+M 2942003,Glycerine enema 20ml Pouch,,20ml,Pouch,General Chemical,59280,21700,A
+M 1532008,Hydrocortisone Sodium Succinate 100mg/ml Inj One vial,100mg/ml,Inj,One vial,General,454968,106500,A1
+M 2445010,Hydrogen Peroxide 6% w/v Soln. 500ml Bottle,6% w/v,Soln.,500ml Bottle,General Chemical,15246,13100,A
+M 1111049,Hydroxy Chloroquine Phosphate 200mg Tab Strip of 10,200mg,Tab,Strip of 10,General,73630,33600,A1
+M 4000288,Hydroxyzine Hydrochloride 25mg Tab Strip of 10,25mg,Tab,Strip of 10,General,10805,1400,A1
+M 2929005,Hyoscine Butyl Bromide 20mg./ ml. Inj 1ml .amp.,20mg./ ml.,Inj,1ml Lamp.,General,881070,256900,A1
+M 4000290,Ibandronic acid 150 mg Tab Strip of 10,150 mg,Tab,Strip of 10,General,620,7100,A1
+M 1111019,Ibuprofen 200mg Tab Strip of 10,200mg,Tab,Strip of 10,General,748598,44600,A1
+M 1111020,Ibuprofen 400mg Tab Strip of 10,400mg,Tab,Strip of 10,General,2496273,247800,A1
+M 1111021,Ibuprofen 100mg/5ml Susp. 60 ml Bottle,100mg/5m I,Susp.,60 ml Bottle,General,407168,56300,A1
+M 2647007,Ipratropium bromide 250 mcg. / ml. Solution for nebulizer 15 ml Vial,250 mcg. / ml.,Solution for nebulize r,15 ml Vial,General,43910,11800,A1
+M 4000308,Iron + Vitamin B12 + Folic Acid 80mg + 2ug + 200ug Syp 200ml bottle/ container,80mg + 2ug + 200ug,Syp,200ml bottle/ contain en,General,110700,33900,A1
+M 2733004,"Iron Folic Acid Ferrous Sulphate exsiccated IP 333- 335mg (equiv. To 100mg of elemental iron) + ""folicacid IP 0.5mg enteric coated Red/Indigo Tab Strip of 10""","Ferrous Sulphate exsiccated IP 333- 335mg (equiv. To ""100mg of elemental iron) + folicacid IP 0.5mg enteric coated Red/Indigo""",Tab,Strip of 10,General,5376306,324000,A1
+M 2733010,Iron Sucrose 20 mg/ml Inj 5ml amp/vial,20 mg/ml,Inj,5ml amp/vi al,General,98545,33800,A1
+M 4000311,Isotretinoin 10mg Cap Strip of 10,10mg,Cap,Strip of 10,General,4485,1400,A1
+M 4000312,Isotretinoin 20mg Cap Strip of 10,20mg,Cap,Strip of 10,General,11860,5400,A1
+M 4000313,Itopride 50mg Tab Strip of 10,50mg,Tab,Strip of 10,General,12250,2300,A1
+M 2942002,Lactulose 667mg/ml Syp 100ml Bottle,667mg/ml,Syp,100ml Bottle,General,749160,747700,A2
+M 1532020,Levocetirizine 2.5mg/5ml Syp 30ml Bottle,2.5mg/5ml,Syp,30ml Bottle,General,788100,71400,A2
+M 1532021,Levocetirizine 5mg Tab Strip of 10,5mg,Tab,Strip of 10,General,4038187,121200,A2
+M 4000682,LevoSalbutamol/Sa Ibutamol 50 mcg+lpratropium bromide 20mcg 50 mcg+20 mcg inhaler Inhaler,50 mcg+20 mcg,inhaler,Inhaler,General,32925,62200,A2
+M 2976001,levosulpiride 25mg Tab Strip of 10,25mg,Tab,Strip of 10,General,15390,3500,A2
+M 3082009,Levothyroxine 100 mcg Tab Strip of 10,100 mcg,Tab,Strip of 10,General,373800,44200,A2
+M 3082010,Levothyroxine 12.5mcg Tab Strip of 10,12.5mcg,Tab,Strip of 10,General,76000,13500,A2
+M 3082011,Levothyroxine 125 mcg Tab Strip of 10,125 mcg,Tab,Strip of 10,General,21100,6700,A2
+M 3082012,Levothyroxine 150 mcg Tab Strip of 10,150 mcg,Tab,Strip of 10,General,13550,4400,A2
+M 3082013,Levothyroxine 25mcg Tab Strip of 10,25mcg,Tab,Strip of 10,General,412095,51800,A2
+M 3082014,Levothyroxine 50mcg Tab Strip of 10,50mcg,Tab,Strip of 10,General,430900,24200,A2
+M 1061006,"Lignocaine Hydrochloride 0,02 Jelly 30 gm tube",2%,Jelly,30 gm tube,General,104842,22300,A2
+M 1061010,Lignocaine Hydrochloride (without adrenaline) 0.02 Inj 30 ml vial,2%,Inj,30 ml vial,General,74987,14200,A2
+M 2270008,Liquid paraffin Liquid light Lotion 120ml pack,,Lotion,120ml pack,General Chemical,25939,8300,A
+M 2913001,Magnesium hydroxide + aluminium hydroxide + activated dimethicone/ simethicone 250mg + 250mg + 50mg Tab Strip of 10,250mg + 250mg + 50mg,Tab,Strip of 10,General,946055,43100,A2
+M 2913002,"Magnesium hydroxide + aluminium ""hydroxide + activated dimethicone/ simethicone 250mg + 250mg + 50mg/ 5ml Gel 200 ml Bottle""",250mg + 250mg + 50mg/ 5ml,Gel,200 ml Bottle,General,1244102,412800,A2
+M 2546006,Mannitol 0.2 Inj 100 ml pack,20%,Inj,100 ml pack,General,122465,53300,A2
+M 4000762,Mannitol 0.2 Inj 350 ml pack,20%,Inj,350 ml pack,General,22890,21500,A2
+M 4000763,MDI Budesonide 200mcg 1,200mcg,,1,General,30150,86000,A2
+M 4000380,MDI Salmeterol 25 mcg + Fluticasone 250 mcg 25mcg +250mcg Inhalor 200MDI,25mcg +250mcg,Inhalor,200MD I,General,111655,268000,A2
+M 4000381,MDI Tiotropium Bromide 9mcg 1,9mcg,,1,General,21265,58500,A2
+M 4000382,Mefenamic Acid 500mg Tab Strip of 10,500mg,Tab,Strip of 10,General,75020,8000,A2
+M 3263004,Methocarbamol 500 mg Tab Strip of 10,500 mg,Tab,Strip of 10,General,287435,48300,A2
+M 4000398,Methylcobalamin 500 micro gm Cap Strip of 10,500 micro gm,Cap,Strip of 10,General,1063300,200200,A2
+M 4000403,Methylprednislone 8mg Tab Strip of 10,8mg,Tab,Strip of 10,General,3230,1800,A2
+M 4000767,Methylprednislone Acetate 40 mg./ ml Inj 2ml,40 mg./ ml,Inj,2ml,General,2270,1400,A2
+M 3010010,Methylprednisolone 500mg./ vial Inj 4ml Vial (with diluent or separate diluent),500mg./ vial,Inj,4ml Vial (with diluent or separa te diluent ),General,16825,42900,A2
+M 2938001,Metoclopramide 10mg. Tab Strip of 10,10mg.,Tab,Strip of 10,General,185460,6300,A2
+M 2938002,Metoclopramide 5mg/ml aml. Inj 2 vial,5mg/ml aml.,Inj,2 ml vial,General,492214,18400,A2
+M 1328004,Metronidazole 200mg Tab Strip of 10,200mg,Tab,Strip of 10,General,274410,17900,A2
+M 1328005,Metronidazole 400mg Tab Strip of 10,400mg,Tab,Strip of 10,General,1353771,170300,A2
+M 1328006,Metronidazole 500mg/100ml. Inj 100 ml vial,500mg/10 0ml.,Inj,100 ml vial,General,978750,155400,A2
+M 1328007,Metronidazole 200mg/ 5ml Susp. 30ml Bottle,200mg/ 5ml,Susp.,30ml Bottle,General,313450,43300,A2
+M 4000413,"Minoxidil lotion 2% 0,02 Lotion 60ml bottle",2%,Lotion,60ml bottle,General,8075,10700,A2
+M 4000768,"Minoxidil lotion 5% 0,05 Lotion 60ml bottle",5%,Lotion,60ml bottle,General,7540,11700,A2
+M 4000417,Mometasone furoate 0.001 Cream 15g,10%,Cream,15g,General,78000,11400,A2
+M 4000420,Montelukast 10mg Tab Strip of 10,10mg,Tab,Strip of 10,General,101100,15200,A2
+M 4000421,Montelukast 4mg Tab Strip of 10,4mg,Tab,Strip of 10,General,29720,3500,A2
+M 3984024,"Multivitamin As per Schedule-V of Drugs and Cosmetics rules 1945, GOI Syp 100-200 ml pack","As per Schedule- V of Drugs and Cosmetics rules 1945, GOI",Syp,100- 200 ml pack,General,162680,54800,A2
+M 3984026,"Multivitamin As per Schedule-V of Drugs and Cosmetics rules 1945, GOI, for therapeutic usage Tab Strip of 10","As per Schedule- V of Drugs and Cosmetics rules 1945, GOI, for therapeuti C usage",Tab,Strip of 10,General,3481930,186300,A2
+M 4000427,"Multivitamin with Zinc Drop Vit A 3000 IU/ ml, Nicotenomide-10, Dpantherol-3, Zinc- 5mg/ml Drops 15ml","Vit A 3000 IU/ ml, Nicotenom ide-10, Dpanthero I-3, Zinc- 5mg/ml",Drops,15ml,General,69690,10300,A2
+M 3678031,Naltrexone 50mg Tab Strip of 10,50mg,Tab,Strip of 10,General,2120,16500,A2
+M 4000441,nepafenac opthalmic solution 0.001 Eye Drops 5ml,0.10%,Eye Drops,5ml,General,16850,19900,A2
+M 1318082,Nitrofurantoin 100mg Tab Strip of 10,100mg,Tab,Strip of 10,General,76635,10700,A2
+M 2913007,Omeprazole 20mg Cap Strip of 10,20mg,Cap,Strip of 10,General,4514065,338600,A2
+M 2938007,Ondansteron 2mg./ ml. Inj 2ml amp.,2mg./ ml.,Inj,2ml amp.,General,1384691,46100,A2
+M 2938008,Ondansteron 2mg./ml. Inj 4ml amp.,2mg./ ml.,Inj,4ml amp.,General,111600,5600,A2
+M 2938009,Ondansteron 2mg/5ml Syp 30 ml bottle,2mg/5ml,Syp,30 ml bottle,General,102433,9500,A2
+M 2938010,Ondansteron 4mg Tab Strip of 10,4mg,Tab,Strip of 10,General,290395,10100,A2
+M 2938011,Ondansteron 8mg Tab Strip of 10,8mg,Tab,Strip of 10,General,124625,5000,A2
+M 2951001,"ORS (Low osmolarity: 245 mmol/L: Sod Chloride 2.6 g/ L Trisodium citrate dehydrate 2.9g/L Pot.Chloride 1.5g/L,Glucose anhydrous 13.5g/L) Powder 20.5 gm Sachet","(Low osmolarity: 245 mmol/L: Sod Chloride 2.6 g/ L Trisodium citrate dehydrate 2.9g/L Pot.Chlori de 1.5g/L,Glu cose anhydrous 13.5g/L)",Powder,20.5 gm Sachet,General,4327264,239100,A2
+M 2913009,Pantaprazole 40mg Inj Amp/ vial,40mg,Inj,Amp/ vial,General,972718,100700,A2
+M 4000470,Pantoprazole 40mg Tab strip of 10,40mg,Tab,strip of 10,General,1416628,146000,A2
+M 1111016,Paracetamol 125mg/ 5ml Syp 60ml Bottle,125mg/ 5ml,Syp,60ml Bottle,General,1648485,213500,A2
+M 1111017,"Paracetamol with/ ""without Lignocaine 150mg/ml Inj 2ml amp.""",150mg/ml,Inj,60ml amp.,General,131615,6600,A2
+M 4000472,Paraffin white soft 13.7% + light liquid paraffin 10.2% 13.7% + 10.2% Oint 50gm,"13.7% + 10,2%",Oint,50gm,General Chemical,120050,135100,A
+M 1111033,Pentazocin Lactate 30mg/ml Inj 1ml amp.,30mg/ml,Inj,1ml amp.,General,82718,7500,A2
+M 2279001,Permethrin 0.01 Lotion 60ml Bottle,1%,Lotion,60ml Bottle,General,164237,35200,A2
+M 2279002,"Permethrin 0,05 Cream 30gm tube",5%,Cream,30gm tube,General,401235,69500,A2
+M 1532003,Pheniramine maleate 25mg Tab Strip of 10,25mg,Tab,Strip of 10,General,639930,20200,A2
+M 1532004,Pheniramine maleate 15mg/5ml Syp 60 ml Bottle,15mg/5ml,Syp,60 ml Bottle,General,486195,65800,A2
+M 1532005,Pheniramine maleate 22.75mg/ml Inj 2 ml vial,22.75mg/ ml,Inj,2 ml vial,General,202707,8700,A2
+M 4000506,Povidine lodine Scrub with dispenser 0.075 Scrub 500ml,7.50%,Scrub,500ml,General,8263,13700,A2
+M 2214006,Povidone iodine 0.05 Soln. 500ml Bottle,5%,Soln.,500ml Bottle,General,98979,84300,A2
+M 2214007,Povidone iodine 0.05 Oint 15gm tube,5%,Oint,15gm tube,General,650640,90300,A2
+M 2214008,Povidone iodine 0.05 Oint 500gm Jar,5%,Oint,500gm Jar,General,7954,19100,A2
+M 1736007,Pralidoxime Chloride (2-PAM) 25mg/ml Inj 20ml vial,25mg/ml,Inj,20ml vial,General,6410,7700,A2
+M 3010001,Prednisolone 5mg Tab Strip of 10,5mg,Tab,Strip of 10,General,101275,9800,A2
+M 3010002,Prednisolone 10mg Tab Strip of 10,10mg,Tab,Strip of 10,General,218553,31900,A2
+M 3010003,Prednisolone 20mg Tab Strip of 10,20mg,Tab,Strip of 10,General,60400,15600,A2
+M 3010005,Prednisolone 40mg Tab Strip of 10,40mg,Tab,Strip of 10,General,5820,2900,A2
+M 1532015,Promethazine Hydrochloride 25mg/ml Inj 1 ml amp.,25mg/ml,Inj,1 ml amp.,General,74495,3400,A2
+M 2913003,Ranitidine 150mg Tab Strip of 10,150mg,Tab,Strip of 10,General,9228115,599900,A2
+M 2913005,Ranitidine 50mg/2ml Inj 2 ml amp.,50mg/2ml,Inj,2 ml amp.,General,1904132,56700,A2
+M 2647001,Salbutamol 2mg. Tab Strip of 10,2mg.,Tab,Strip of 10,General,245990,5600,A2
+M 2647002,Salbutamol 4mg Tab Strip of 10,4mg,Tab,Strip of 10,General,274813,6500,A2
+M 2647003,Salbutamol 2mg./ 5ml. Syp 100ml. Bottle,2mg./ 5ml.,Syp,100ml. Bottle,General,412050,60300,A2
+M 2647004,"Salbutamol 100 mcg. / dose Inhalation aerosol,Metered Dose inhaler, CFC free 200 doses Pack",100 mcg. / dose,"Inhalatio n aerosol, Metered Dose inhaler, CFC free",200 doses Pack,General,527900,479400,A2
+M 2647005,Salbutamol Solution for Nebulizer 5mg/ml Soln. 15 ml pack,5mg/ml,Soln.,15 ml pack,General,144236,25000,A2
+M 2260005,Salicylic acid 0.06 Oint 20 gm. tube,6%,Oint,20 gm. tube,General,21500,4800,A2
+M 4000546,Salmeterol 50mcg + Fluticasone 500 mcg 50mcg +500mcg Rotacap 30 pack,50mcg +500mcg,Rotacap,30 pack,General,3300,6600,A2
+M 4000548,Serratiopeptidase 10mg Tab Strip of 10,10mg,Tab,Strip of 10,General,188830,15800,A2
+M 4000587,Sucralfate 1gm/10ml Syp 200ml,1gm/10ml,Syp,200ml,General,42550,44300,A2
+M 2647020,Surfactant Solution for intratracheal instilation (Naturally derived surfactant suspension for ultra tracheal adminstration. Should contain surfactant proteins SP -B & SP-C. Should contain atleast 25 mg/ml of phospholipid Soln. 1-8ml. Vial,(Naturally derived surfactant suspensio n for ultra tracheal adminstrat ion. Should contain surfactant proteins SP -B & SP -C. Should contain atleast 25 mg/ml of phospholip id,Soln.,1-8ml. Vial,General,1367,145600,A2
+M 1111029,Tramadol Strip of 10 Cap Strip of 10,Strip of 10,Cap,Strip of 10,General,437235,28400,A2
+M 1111030,Tramadol 2ml vial Inj vial,2ml vial,Inj,vial,General,730790,26000,A2
+M 2749015,Tranexamic acid Strip of 10 Tab Strip of 10,Strip of 10,Tab,Strip of 10,General,68395,31700,A2
+M 2749016,Tranexamic acid 5ml amp. Inj Amp/ vial,5ml amp.,Inj,Amp/ vial,General,208942,29600,A2
+M 2749017,Tranexamic acid Strip of 10 Tab Strip of 10,Strip of 10,Tab,Strip of 10,General,164405,148300,A2
+M 2942006,Urso deoxy cholic acid Strip of 10 Tab/ Cap Strip of 10,Strip of 10,Tab/ Cap,Strip of 10,General,156275,197200,A2
+M 3984001,Vitamin A (Retinol) Blister pack of 10 cap. Cap Strip of 10,Blister pack of 10 cap.,Cap,Strip of 10,General,45570,21300,A2
+M 3984002,Vitamin A (Retinol) Blister pack of 10 cap. Cap Strip of 10,Blister pack of 10 cap.,Cap,Strip of 10,General,17240,12200,A2
+M 3984004,Vitamin A (Retinol) (as palmitate) 100 ml suitable amber colored bottles Oral Oily Solution 100 ml Bottle,100 ml suitable amber colored bottles,Oral Oily Solution,100 ml Bottle,General,25181,29700,A2
+M 3984029,Vitamin B1 (Thiamine) Strip of 10 Tab Strip of 10,Strip of 10,Tab,Strip of 10,General,89560,17700,A2
+M 4000659,Vitamin B12 im/iv 5ml vial Inj vial,5ml vial,Inj,vial,General,9942,2200,A2
+M 3984035,Vitamin B6 (Pyridoxine) 10mg Tab Strip of 10,10mg,Tab,Strip of 10,General,128200,7300,A2
+M 3984011,Vitamin C 100mg Tab Strip of 10,100mg,Tab,Strip of 10,General,98975,4200,A2
+M 3984012,Vitamin C 500mg Tab Strip of 10,500mg,Tab,Strip of 10,General,1036165,100300,A2
+M 3984007,Vitamin D3 cholecalciferol (60000 IU per sachet) Granules 1gm. Sachet,(60000 IU per sachet),Granule S,1gm. Sachet,General,3136460,200800,A2
+M 4000663,Vitamin E 200mg Cap strip of 10 cap,200mg,Cap,strip of 10 cap,General,41500,10100,A2
+M 4000664,Vitamin E 400mg Cap strip of 10 cap,400mg,Cap,strip of 10 cap,General,132600,53400,A2
+M 4000665,Vitamine B1+B6+B12 As per Schedule V Syp 200ml syrup,As per Schedule V,Syp,200ml syrup,General,66100,17000,A2
+M 4000675,Zinc acetate 20mg/5ml Syp 60ml bottle,20mg/5ml,Syp,60ml bottle,General,15600,2500,A2
+M 3984021,Zinc sulfate 20mg/5ml (Elemental Zinc) Syp 100 ml bottle,20mg/5ml (Elemental Zinc),Syp,100 ml bottle,General,294100,63600,A2
